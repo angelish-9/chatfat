@@ -1,0 +1,10 @@
+MONGO_URI = mongodb+srv://aditya:aditya1720@users.jgkmwqc.mongodb.net/
+NODE_ENV = DEVELOPMENT
+ADMIN_SECRET_KEY=aditya
+CLIENT_URL = http://localhost:5173
+JWT_SECRET=djgjkdshbgjkhfnjksdfhbnsjkdfsdhjfk
+
+
+CLOUDINARY_CLOUD_NAME= decxxinnu
+CLOUDINARY_API_KEY = 565515582928896
+CLOUDINARY_API_SECRET =  06M6QHbYxRTEQtlzQz2cEgWRad0
